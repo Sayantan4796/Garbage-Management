@@ -1,0 +1,6 @@
+1. Wastebin serial number:   
+2. Wastebin type:
+3. Wastebin status:
+4. Wastebin action:
+5. Wastebin zone: 
+6. Wastebin Lat./Long. :
