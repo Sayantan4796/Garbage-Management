@@ -9,7 +9,7 @@ If we do the above mentioned task, then what we will have is basicaaly a chat/me
 
 16/04/2020 (New files added)
 
-Today, I have updated four fies in this repository (kindly check the commit dates aginst the files to access them). I have modiefied the previous client and server code so as that instead of string messages, the Housekeeping client is able to send the contents of Waste_data.txt file from File_Housekeeping.py to File_IIT_H_server.py. 
+Today, I have updated four fies in this repository (kindly check the commit dates aginst the files to access them). I have modified the previous client and server code so as that instead of string messages, the Housekeeping client is able to send the contents of Waste_data.txt file from File_Housekeeping.py to File_IIT_H_server.py. 
 
 Now, the problem is, that the server should be able to send these contents to File_MobileU.py. But this client is not able to connect with the server.
 
