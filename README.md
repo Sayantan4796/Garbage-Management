@@ -7,10 +7,16 @@ For now, we are focussing ourselves to establish a two client to server connecti
 
 If we do the above mentioned task, then what we will have is basicaly a chat/messaging application. To elevate it to perform our given objective, we need to send objects instead of strings. But that we will focus on later. And this readme file will get regularly updated. 
 
-16/04/2020 (New files added)
+!!!!!!!!UPDATE!!!!!!! 16/04/2020 (New files added)
 
 Today, I have updated four fies in this repository (kindly check the commit dates against the files to access them). I have modified the previous client and server code so that instead of string messages, the Housekeeping client is able to send the contents of Waste_data.txt file from File_Housekeeping.py to File_IIT_H_server.py. 
 
 Now, the problem is, that the server should be able to send these contents to File_MobileU.py. But this client is not able to connect with the server.
+
+!!!!!!!! UPDATE !!!!!!!!!!!! 27/04/2020 (New File added)
+
+Today, The final server client codes have been completed, and operating successfully. The previuos test files have been deleted to reduce clutter. 
+
+The next problem is to integrate these codes with swift to make an efective IOS application interface. 
 
  
