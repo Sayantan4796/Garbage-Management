@@ -17,6 +17,6 @@ Now, the problem is, that the server should be able to send these contents to Fi
 
 Today, The final server client codes have been completed, and operating successfully. The previuos test files have been deleted to reduce clutter. 
 
-The next problem is to integrate these codes with swift to make an efective IOS application interface. 
+The next problem is to integrate these codes with swift to make an effective IOS application interface. 
 
  
