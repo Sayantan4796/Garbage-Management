@@ -1,11 +1,10 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'MobileUnit' do
+target 'HousekeepingUnit' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-  pod 'HEREMaps', '>= 3.15'
-
-  # Pods for MobileUnit
+  pod 'Socket.IO-Client-Swift', '~> 15.2.0'
+  # Pods for HousekeepingUnit
 
 end
